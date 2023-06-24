@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kush10000
-- 👀 I’m interested in AI/ML , app/web/game dev , competitive coding , hacking and blockchain
+- 👀 I’m interested in AI/ML, competitive coding, hacking, and blockchain
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that requires only basic coding knowledge and is related to my interests and will be a learning opportunity .
 - 📫 How to reach me - whatsapp (7987924577) , kush.ag786@gmail.com
