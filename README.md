@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kush10000
+- 👋 Hi, I’m @kush10000, a passionate problem-solver from India
 - 👀 I’m interested in AI/ML and dev
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on good web dev projects that will help me become a better devoloper.
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me - whatsapp (7987924577) , kush.ag786@gmail.com
 
 <!---
